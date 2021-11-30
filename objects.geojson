@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "objects",
+"features": [
+{ "type": "Feature", "properties": { "Name": "Ariana Lake", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 23.33654591186589, 42.689300982212181, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "UACEG", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 23.330863888888889, 42.684372222222223, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Vasil Levski Stadium", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 23.335302690488209, 42.687552446370582, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Pizza Reastaurant Bel Ami", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 23.33080213825496, 42.685109898785399, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Maraia Bar", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 23.330125649367911, 42.685690971535657, 0.0 ] } }
+]
+}
